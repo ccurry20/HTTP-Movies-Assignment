@@ -75,3 +75,21 @@ body {
   color: red;
   text-align: center;
 }
+
+.delete-button {
+  position: absolute;
+  top: 25px;
+  right: 93px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+}
+
+.update-button {
+  position: absolute;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+  margin-left:50%; 
+  margin-top:-4%;
+}
